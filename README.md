@@ -1,6 +1,6 @@
 # LPRefreshControl
 
-refresh control util for [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) easily and conveniently
+easier and convenient refresh control util for [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh).
 
 # Installation
 
